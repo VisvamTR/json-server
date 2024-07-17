@@ -3,5 +3,5 @@
 
 [[redirects]]
   from = "/api/*"
-  to = "/.netlify/functions/json-server"
+  to = "/.netlify/json-server"
   status = 200
